@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Enum is a perfect tool for values that can be changed.
+    is_correct: false
+  - text: Enum makes the code readable and concise.
+    is_correct: true
+  - text: An enum type enables a variable to be a value from a set of predefined constants.
+    is_correct: true
+  - text: Enumeration helps to avoid errors in the code.
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 15 Apr 2024 16:30:56 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 3
+custom_name: Reasons to use enum
+local_check: true

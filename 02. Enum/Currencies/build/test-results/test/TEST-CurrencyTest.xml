@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CurrencyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-15T15:34:33" hostname="DESKTOP-A97GDF4" time="0.002">
+  <properties/>
+  <testcase name="testCurrencyToString" classname="CurrencyTest" time="0.001"/>
+  <testcase name="testCurrencyValueOf" classname="CurrencyTest" time="0.0"/>
+  <testcase name="testInvalidCurrencyValueOf" classname="CurrencyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

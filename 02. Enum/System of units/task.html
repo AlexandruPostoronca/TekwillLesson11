@@ -1,0 +1,16 @@
+<h2>System of units</h2>
+
+<p>You are given an enum <code>SI</code> with three constants. Each constant stores a string field with its quantity name:</p>
+<pre><code>enum SI {
+
+    M("length"),
+    KG("mass"),
+    S("time");
+
+    public final String quantityName;
+
+    SI(String quantityName) {
+        this.quantityName = quantityName;
+    }
+}</code></pre>
+<p>Declare the instance method <code>getQuantityName</code> that returns the quantity name of the constant.</p>

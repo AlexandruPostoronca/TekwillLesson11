@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: The variable result equals 0
+    is_correct: false
+  - text: The variable result is null
+    is_correct: false
+  - text: It throws ArithmeticException
+    is_correct: false
+  - text: It throws NPE
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 15 Apr 2024 05:39:52 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: "NPE, zero or null?"
+local_check: true

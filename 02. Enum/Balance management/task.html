@@ -1,0 +1,57 @@
+<h2>Balance management</h2>
+
+<p><br>
+    You are given the enum <code>Operation</code> and the class <code>Account</code>. Their implementations are shown
+    below.</p>
+<p>The <code>Operation</code> enum:</p>
+<pre><code>enum Operation {
+    /**
+     * deposit (add) an amount into an Account
+     */
+    DEPOSIT,
+    /**
+     * withdraw (subtract) an amount from an Account
+     */
+    WITHDRAW
+}</code></pre>
+<p>The <code>Account</code> class:</p>
+<pre><code>class Account {
+
+    private String code;
+    private Long balance;
+
+    public String getCode() {
+        return code;
+    }
+
+    public Long getBalance() {
+        return balance;
+    }
+
+    public void setBalance(Long balance) {
+        this.balance = balance;
+    }
+} </code></pre>
+<p>Your task is to implement the method <code>changeBalance</code><strong> </strong>to control balances. It has the
+    following declaration:</p>
+<pre><code>public static boolean changeBalance(Account account, Operation operation, Long sum)</code></pre>
+<ul>
+    <li>If the given operation is DEPOSIT the method adds the sum to the account's balance.</li>
+    <li>If the operation is WITHDRAW the method subtracts the given sum from the account's balance. If the given sum is
+        greater than the balance, the method shouldn't change it. Instead, the method must output the string <strong>"Not
+            enough money to withdraw."</strong> (without quotes, don't forget the full point).
+    </li>
+    <li>In any case, the method returns a <strong>boolean value</strong> — <code>true</code> if the balance has changed,
+        <code>false</code> if it hasn't.
+    </li>
+</ul>
+
+<p><strong>Example 1</strong></p>
+<p>The following values are passed to the method: <code>operation = Operation.DEPOSIT</code>, <code>sum = 2000</code>.
+    The initial balance of the account is <code>1000</code>.</p>
+<p>In this case, the method returns <code>true</code> and the new account balance is <code>3000</code>.</p>
+<p><strong>Example 2</strong></p>
+<p>The following values are passed to the method: <code>operation = Operation.WITHDRAW</code>, <code>sum = 5000</code>.
+    The initial balance of the account is <code>2000</code>.</p>
+<p>In this case, the method returns <code>false</code>, the account's balance is not changed (<code>2000</code>) and
+    method prints <code>"Not enough money to withdraw."</code>.</p>

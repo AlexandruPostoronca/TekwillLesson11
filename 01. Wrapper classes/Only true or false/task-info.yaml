@@ -1,0 +1,20 @@
+type: edu
+custom_name: Only true or false
+files:
+  - name: src/Primitive.java
+    visible: true
+    encrypted_text: 5dm3J/ku1Z8btR1ZyohoVwoc0Zn49e57AOnTswGo3fvRWswWv86AB6qlv2dJrzGqyQKdUIMnSL4B92GARwyNq96Xz/v3L5z0tUroZM5re6ffMGayklVFKTvOOedJq9fE4R7XT2btJ5klyuZyUGVFyn6cp2QFu5wHVFnW8HxIxOXAkHNtUofb5t5lW2lxNNhYH8KyNl8uU7jETqXbgUg9nmDlAPLoWTH/wMOZor8XaB91zDONn2aY0FFKP/RTz5F0eCp2AeB26Otgu7pustK2c2KzZE+aqeaFwByio3/qyhR2qYF8IH+Iv8wZaCO5TEfL
+    learner_created: false
+  - name: test/PrimitiveTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOMjoV++DfncJn8MWmTeNKCyaA87keC3TzhWW2Jr3QSqDmv3f2vHvpjGrEAbAv/2ZMxeOXQX2v3o8+eDyOEQmCXE4Nv+WxYP34sLyujDhqWr1KYVWpAOwWUfjy0vC9u0+7K1faQBcYB2GxVy/j2VmrOjf/0wEfA1mhOFfhIXI3M4vtDzqRh/xMTAUVqNzjKGAkpAaajCrCTmOuhwd9hUvIWbQb+IjulawdZHvs8akCnCzyxKx8fci5gnvb5UK6y9grDk/RaLiuvYE1/D1XCuUthwEKJJT+d0h4E98GS0s0RnRliCQPm0NGbGgemakcqqJJv0YPT73Gqv1qkNZvDvIgTZ0l22aKKL/WhAOuPSJlxsVWQQYLU9S/tEz1Leh9r4meOP7FwdNhSIZGCJIA5kkIrjxyV8CnxBIOuTFe4A2I1szNVJcHNkvE9FUJng5xFq8BSeLteQ1o7lE21frXL/lF0sSnYBxBfdz6LudfL5ka0TvCkJSEBIyJNwBTx5p/QBMNeVrBXtRULey9iY3Fu2akThhoh0sKOOvmKZi9jW/aNFXNSmQ1uIRFw6jh75FupfqG/VrfIKn2dnLf7I4A86ex956guSaUv0h/y+CYfQfo17RjibZth1urN/7qNy7qfzPcM2Lr8EqWWXhAYOI8rKDDPIBrVvL3FjOEjOAauuiW36YH3OJGxFuWemEe5aV+KSiEu0WdOUEDJ2jJGRYJgZFa7zOkdp2Swmcwhyl5HHhrOoV3CpbYEw4oqkQrEfWiJVMHO2cciXx2cp1HhjI9slhOvA==
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Apr 2024 08:19:49 UTC"
+record: -1

@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Long val = Long.parseLong("4321");
+    is_correct: true
+  - text: Long val = 4321L;
+    is_correct: true
+  - text: Long val = Long.valueOf("4321");
+    is_correct: true
+  - text: Long val = Long.of(4321);
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 15 Apr 2024 05:51:19 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+custom_name: Initializing long value
+local_check: true

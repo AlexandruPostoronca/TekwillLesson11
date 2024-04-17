@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Direction.valueOf("N") returns Direction.NORTH as a Direction object
+    is_correct: false
+  - text: Direction.NORTH.getShortCode() returns "N" as a String
+    is_correct: true
+  - text: Direction.NORTH.name() returns "NORTH" as a String
+    is_correct: true
+  - text: Direction.NORTH.toString() returns "N" as a String
+    is_correct: false
+  - text: Direction.valueOf("NORTH") returns Direction.NORTH as a Direction object
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Apr 2024 10:04:55 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 4
+custom_name: Directions
+local_check: true

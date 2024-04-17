@@ -1,0 +1,20 @@
+type: edu
+custom_name: Danger levels
+files:
+  - name: src/DangerLevel.java
+    visible: true
+    encrypted_text: Pg2d2qinHCKO9zUf3HUeRbcKCmsjJBtX1cuN0n2rQnVwR01yClrr5zpTaSdEtUdPOnz9jvhIV7oMNLdWuNhwew==
+    learner_created: false
+  - name: test/DangerLevelTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nELYfladGZWDUrKFjXZLNPDpD+ixobhbrJ/2kid8rWwatNxBnJ4mSBMZP7WxwYcgy2IIZ9wIAj0p+IxsO448MNMcCCbOf64OGPQXKzo2BW7TVq73Z+2mf/eWpz9SJgsvk1LC1iyzOrwh5PV0XWci5kVZ8/UTXiQN97igxUSJgBs/CDGyIWr74UQDTKmJCRvdARurGw9TKZe5inDdMRk01WBbbYUJ9gyxBeiOcNUA2LVNW9MdSuEI0r8A3cmi42U4JDvVdgrgoJJuafn1VezPd+nk8EF70q9V1zPWWZyJRkvP9GGd4ZJfq8PZV1cNaUaojT+hvK/GAc3B54TjH7IIQWPXcb5i75FhVkTb9btXsul+FMAHCpw/B3/gQtULi6oDLHgXGVilJo4aXEkCkG8430Tfezo64GY9yHLrTXRTaZ6eLViNcw/M1Jg5zG/e1AP+EBt4niVxX6605ml1o4AggUqAamDQ/OjvMkmvoHCsn8QLERGhpde9OuHOoCUCKEKjb9CoXdLPfAWZ+6ZAsDxZaXpElJfynTJ3OLOaO5lQ8Kw+gu2VFoZE6bWk1gAn4pZKfd6oUZGx4HthRdcrU7ujfGomhDq7soUbNEwxfzl4Bft7B0PGFQDNiEcwA9g875lhfB3kd59XW+bAzTICu1rcUnINw+o+HM1PGB84LwRdQxJwUBkPSzV/C43bEW1aLWNDumPZ3+NlSoyM5fm31xNIXdDa9eKgEqChojHdvBtaimngl1AY6sOYDWaxBnpCtEsSs4gW68HYjbEhbI+GOBEYFOlt8E4DYZafaMGetCHV7HhTLMioLAgauaTPKESTmUyTXKM5EhKYomT/feMih91GYdrk8xbYu+Z4v7ypRNGet6lBPr903XGHvbUue/Upz6bj40E0KIy6aeBUfBTawNAFW1HEKItEyfOre6eLtVRtppKGIIsO/UhCT017BRTOHD4ULFgcvDJofj9mh/ByMPSilLnyPegte3INO/7tSobv4Hq1i6cX0wq00TQwpyNAiiqOHAa+NrmEuKJGZ1xDFfC7EZjHP4Zy5EttjOhhVFFKZVA5NbszRL0utyDIva9Ag0Wn7I433e0f4gJoJ4E+xSM7WxeZj2OwKJJnfRh1sT1XCwSHhGvYJoZ+H6MArebtd7swmU8Clf0Kl/33vMVGhe2LJLcwtrBt6pWVd62nkoCE3xibndbD7X5dbkepX1n4GDl/SJA8QVE6b4E54YzVQZ56xVJWxNygLBwKqvJQmgoFTcc+u0NwSHG8//Y3KA3GT1yQ6UqYpLpGK3B62u24m/hK5etl1SqQB+lWGDyp/uui2dwkQh/tL1oS5eWs12EqFu9DebXbUqu/frlIASvwAsdJZqO3kWwxFQ6itFBknpLRNuwj
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 16 Apr 2024 18:00:19 UTC"
+record: -1

@@ -1,0 +1,69 @@
+<h2>Herons formula</h2>
+<p>Many years ago when Paul went to school, he did not like the Heron's formula to calculate the area of a triangle,
+    because he considered it very complex. Once he decided to help all school students and write and distribute a
+    program calculating the area of a triangle by its three sides.</p>
+
+<p>However, there was a problem: as Paul did not like the formula, he did not memorize it. Help him finish this act of
+    kindness and write the program calculating the area of a triangle with the known length of its sides, in accordance
+    with Heron's formula:</p>
+
+<p>
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+            <mrow>
+                <mi>S</mi>
+                <mo>=</mo>
+                <msqrt>
+                    <mrow>
+                        <mi>p</mi>
+                        <mo stretchy="false">(</mo>
+                        <mi>p</mi>
+                        <mo>−</mo>
+                        <mi>a</mi>
+                        <mo stretchy="false">)</mo>
+                        <mo stretchy="false">(</mo>
+                        <mi>p</mi>
+                        <mo>−</mo>
+                        <mi>b</mi>
+                        <mo stretchy="false">)</mo>
+                        <mo stretchy="false">(</mo>
+                        <mi>p</mi>
+                        <mo>−</mo>
+                        <mi>c</mi>
+                        <mo stretchy="false">)</mo>
+                    </mrow>
+                </msqrt>
+            </mrow>
+        </semantics>
+    </math>
+    where
+    <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <semantics>
+            <mrow>
+                <mi>p</mi>
+                <mo>=</mo>
+                <mstyle displaystyle="true" scriptlevel="0">
+                    <mfrac>
+                        <mrow>
+                            <mi>a</mi>
+                            <mo>+</mo>
+                            <mi>b</mi>
+                            <mo>+</mo>
+                            <mi>c</mi>
+                        </mrow>
+                        <mn>2</mn>
+                    </mfrac>
+                </mstyle>
+            </mrow>
+        </semantics>
+    </math>
+    is the half-perimeter of the triangle. In the input, the program has integers, and the output should be a real
+    number corresponding to the area of the triangle.
+</p>
+<div><p><strong> Sample Input 1: </strong></p>
+    <pre>3
+4
+5</pre>
+    <p><strong> Sample Output 1: </strong></p>
+    <pre>6.0</pre>
+</div>

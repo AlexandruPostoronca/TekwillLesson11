@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: ordinal
+    is_correct: false
+  - text: value()
+    is_correct: true
+  - text: name
+    is_correct: false
+  - text: values()
+    is_correct: false
+  - text: valueOf()
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Apr 2024 09:59:58 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: Methods and parameters of Enum
+local_check: true

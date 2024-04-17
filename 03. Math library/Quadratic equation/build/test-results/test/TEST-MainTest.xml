@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-04-16T19:01:54" hostname="DESKTOP-A97GDF4" time="0.062">
+  <properties/>
+  <testcase name="testLargeValues" classname="MainTest" time="0.019"/>
+  <testcase name="testWithBEqualsZero" classname="MainTest" time="0.006"/>
+  <testcase name="testWithRealAndEqualRoots" classname="MainTest" time="0.006"/>
+  <testcase name="testCEqualsZero" classname="MainTest" time="0.003"/>
+  <testcase name="testWithCEqualsZero" classname="MainTest" time="0.008"/>
+  <testcase name="testWithRealAndDistinctRoots" classname="MainTest" time="0.003"/>
+  <testcase name="testBEqualsZero" classname="MainTest" time="0.004"/>
+  <testcase name="testFromProblem1" classname="MainTest" time="0.003"/>
+  <testcase name="testFromProblem2" classname="MainTest" time="0.002"/>
+  <testcase name="testFromProblem3" classname="MainTest" time="0.003"/>
+  <testcase name="testFromProblem4" classname="MainTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

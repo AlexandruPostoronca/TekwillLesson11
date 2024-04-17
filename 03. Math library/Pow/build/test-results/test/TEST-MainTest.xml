@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-04-15T18:35:50" hostname="DESKTOP-A97GDF4" time="0.024">
+  <properties/>
+  <testcase name="testWithNegativeBaseAndOddExponent" classname="MainTest" time="0.008"/>
+  <testcase name="testWithNonIntegerInputValues" classname="MainTest" time="0.002"/>
+  <testcase name="testWithNegativeBaseAndEvenExponent" classname="MainTest" time="0.002"/>
+  <testcase name="testWithMinimumInputValues" classname="MainTest" time="0.001"/>
+  <testcase name="testWithExponentZero" classname="MainTest" time="0.001"/>
+  <testcase name="testWithMaximumInputValues" classname="MainTest" time="0.001"/>
+  <testcase name="testWithBaseZero" classname="MainTest" time="0.001"/>
+  <testcase name="testFromProblem1" classname="MainTest" time="0.002"/>
+  <testcase name="testFromProblem2" classname="MainTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "average, median, mode"
+    is_correct: false
+  - text: "ceil, floor, round"
+    is_correct: true
+  - text: "min, max"
+    is_correct: true
+  - text: "integrate, differentiate"
+    is_correct: false
+  - text: "sin, cos, tan"
+    is_correct: true
+  - text: "abs, pow, log, sqrt"
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 15 Apr 2024 17:35:54 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 4
+  - 5
+custom_name: Existing methods
+local_check: true

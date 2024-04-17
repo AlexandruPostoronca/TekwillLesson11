@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Autoboxing int" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Identify a possible exception" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Identify possible exceptions" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Initializing long value" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/NPE, zero or null" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Only true or false" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Result of the code" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Safe converting" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Theory" />
+            <option value="$PROJECT_DIR$/01. Wrapper classes/Wrapper classes for char and int" />
+            <option value="$PROJECT_DIR$/02. Enum/Balance management" />
+            <option value="$PROJECT_DIR$/02. Enum/Currencies" />
+            <option value="$PROJECT_DIR$/02. Enum/Danger levels" />
+            <option value="$PROJECT_DIR$/02. Enum/Days of week" />
+            <option value="$PROJECT_DIR$/02. Enum/Directions" />
+            <option value="$PROJECT_DIR$/02. Enum/Elements of enum" />
+            <option value="$PROJECT_DIR$/02. Enum/Enum with two constants" />
+            <option value="$PROJECT_DIR$/02. Enum/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/02. Enum/Methods and parameters of Enum" />
+            <option value="$PROJECT_DIR$/02. Enum/Months" />
+            <option value="$PROJECT_DIR$/02. Enum/Reasons to use enum" />
+            <option value="$PROJECT_DIR$/02. Enum/Robot control" />
+            <option value="$PROJECT_DIR$/02. Enum/System of units" />
+            <option value="$PROJECT_DIR$/02. Enum/Theory" />
+            <option value="$PROJECT_DIR$/02. Enum/Theory - Enums" />
+            <option value="$PROJECT_DIR$/03. Math library/Compare the results" />
+            <option value="$PROJECT_DIR$/03. Math library/Existing methods" />
+            <option value="$PROJECT_DIR$/03. Math library/Herons formula" />
+            <option value="$PROJECT_DIR$/03. Math library/Pow" />
+            <option value="$PROJECT_DIR$/03. Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/03. Math library/Theory" />
+            <option value="$PROJECT_DIR$/03. Math library/What does random produce" />
+            <option value="$PROJECT_DIR$/03. Math library/What is true" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

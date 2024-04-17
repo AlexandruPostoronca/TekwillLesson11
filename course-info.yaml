@@ -1,0 +1,19 @@
+type: marketplace
+title: 11. Wrapper classes
+language: English
+summary: |-
+  This is an introductory course about Wrapper classes, Enums and Math library in Java.
+  - 01. Wrapper classes
+  - 02. Enum
+  - 03. Math library
+programming_language: Java
+programming_language_version: 17
+content:
+  - 01. Wrapper classes
+  - 02. Enum
+  - 03. Math library
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
+vendor:
+  name: Alexandru Umaneț

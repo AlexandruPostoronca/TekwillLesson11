@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The code Month.values() returns an array of all declared constants
+    is_correct: true
+  - text: Month aug = Month.AUG; The variable aug has a primitive type.
+    is_correct: false
+  - text: Month dec1 = Month.DEC; Month dec2 = Month.DEC; The statement dec1 == dec2
+      always returns true.
+    is_correct: true
+  - text: The code Month.JAN.getNumber() returns 0
+    is_correct: false
+  - text: The code Month.valueOf("JUN") returns JUN.
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Apr 2024 09:57:08 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 4
+custom_name: Months
+local_check: true
